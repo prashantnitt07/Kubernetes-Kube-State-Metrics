@@ -18,3 +18,4 @@ spec:
     - name: telemetry
       port: 8081
       targetPort: telemetry
+
